@@ -10,7 +10,7 @@
         android:label="quake"
         android:icon="@mipmap/ic_launcher">
          <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDQDLdfARyWCdeQR0lIqbs5HEGiqoT_zWo"/>
+               android:value="Your Api Key"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
