@@ -1,9 +1,16 @@
 # quake app flutter 
-
+Features:
+☑️Google Maps
+☑️Icons
+☑️Tracker
+☑️UI
 A Flutter Earth Quake tracker App
 
-Features:
+
 <img src="https://github.com/vipuluthaiah/Earth-Quake-App-/blob/master/ss/Screenshot_1588836953.png" width="300" height="550">,
+<img src="https://github.com/vipuluthaiah/Earth-Quake-App-/blob/master/ss/Screenshot_1588837015.png" width="300" height="550">,
+<img src="https://github.com/vipuluthaiah/Earth-Quake-App-/blob/master/ss/Screenshot_1588837026.png" width="300" height="550">,
+<img src="https://github.com/vipuluthaiah/Earth-Quake-App-/blob/master/ss/Screenshot_1588837033.png" width="300" height="550">,
 
 This project is a starting point for a Flutter application.
 
