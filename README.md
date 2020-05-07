@@ -1,8 +1,9 @@
-# quake
+# quake app flutter 
 
-A new Flutter project.
+A Flutter Earth Quake tracker App
 
-## Getting Started
+Features:
+<img src="https://github.com/vipuluthaiah/Earth-Quake-App-/blob/master/ss/Screenshot_1588836953.png" width="300" height="550">,
 
 This project is a starting point for a Flutter application.
 
